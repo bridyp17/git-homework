@@ -1,0 +1,7 @@
+What is the difference between git add and git commit?
+- git add adds the file to the staging area, whereas git commit adds the file to git repository
+What happens if you delete the .git folder?
+- the files wihtin that folder will not be deleted, but they will no longer be under version control
+Why should you never share your private key (id_rsa)?
+- it allows others the ability to impersonate you.  The private key serves as an identity and poses
+security risks if exposed.
